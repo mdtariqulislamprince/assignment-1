@@ -73,7 +73,7 @@ nav li{
     border-radius: 5px;
 }
 .Hero{
-    background-image: url(./images/hero-bg.png);
+    background-image: url(images/hero-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
